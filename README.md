@@ -1,2 +1,2 @@
 # Ardi-resolusi
-Repository untuk menyimpan rencana kedepan
+Repository ini untuk coba-coba saja.
